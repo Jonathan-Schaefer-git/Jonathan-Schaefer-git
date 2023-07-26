@@ -8,8 +8,10 @@ Currently, I focus on Optimisation problems, specifically Linear Optimisation pr
 ### I am proficient in (by descending order)
   - C#
   - F#
-  - C++
   - Verilog
+
+### Currently learning
+  - C++
 
 ### Future skills I want to learn
   - Rust
