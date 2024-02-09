@@ -6,13 +6,12 @@ Currently, I focus on Optimisation problems, specifically Linear Optimisation pr
 
 
 ### I am proficient in (by descending order)
-  - C#
   - F#
-  - Verilog
+  - C#
 
 ### Currently learning
   - C++
-
+  - Verilog
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Schaefer-git&hide=css,scss&theme=gotham&hide_border=true"></p>
 
