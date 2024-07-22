@@ -1,7 +1,7 @@
 # Jonathan Schäfer
 I'm Jonathan Schäfer from Rheinland-Pfalz, Germany and interested in informatics, chemistry and mathematics.
 
-Currently, I am working on optimization problems, specifically linear and quadratic optimization problems ([sample problems]). As part of this I want to create an independent solver for mixed-integer quadratic programming, leveraging branch-and-cut as well as the active set method.
+Currently, I am working on optimization problems, specifically linear and quadratic optimization problems ([sample problems]). As part of this I am in the process of building an independent solver for mixed-integer quadratic programming, leveraging branch-and-cut as well as the active set method.
 
 
 
