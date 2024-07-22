@@ -1,11 +1,11 @@
 # Jonathan Schäfer
-I'm Jonathan Schäfer from Rheinland-Pfalz, Germany and interested in programming 
+I'm Jonathan Schäfer from Rheinland-Pfalz, Germany and interested in informatics, chemistry and mathematics.
 
-Currently, I focus on Optimisation problems, specifically Linear Optimisation problems as the tools are mighty, yet hardly used because of a lack of awareness.
-  - [Here are some samples of this]
+Currently, I am working on optimization problems, specifically linear and quadratic optimization problems (sample problems). As part of this I want to create an independent solver for mixed-integer quadratic programming, leveraging branch-and-cut as well as the active set method.
 
 
-### I am proficient in (by descending order)
+
+### I am proficient in
   - F#
   - C#
 
@@ -15,4 +15,4 @@ Currently, I focus on Optimisation problems, specifically Linear Optimisation pr
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Schaefer-git&hide=css,scss&theme=gotham&hide_border=true"></p>
 
-[Here are some samples of this]: https://github.com/Jonathan-Schaefer-git/ILP-MILP-Projects
+[sample problems]: https://github.com/Jonathan-Schaefer-git/ILP-MILP-Projects
